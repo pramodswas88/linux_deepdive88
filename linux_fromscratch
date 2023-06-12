@@ -1,0 +1,42 @@
+5 DAYS LINUX 
+
+*************LINUX 1ST DAY*************************
+
+LINUX IS NOTHING BUT WINDOWS LIKE OPERATING SYSTEM
+LINUX FLAVOURS, LINUX ADVANTAGES
+FILE SYSTEMS
+
+**************LINUX 2ND DAY*********************
+
+FILE CREATION
+DIRECTORY CREATION
+CD COMMAND
+FILE/DIRECTORY PERMISSIONS
+
+
+**************LINUX 3RD  DAY**********************
+
+REAL TIME COMMANDS
+1.I EDITOR
+2.BASIC COMMANDS - ls, ls -ltrah, pwd, cp, mv, mkdir, rmdir, rm -rf, touch, chmod, chown, kill,  find, cat, more, less, tail, whoami, w, uptime, grep, history, man, userdetails( useradd(/etc/passwd, /etc/shadow)), userdel, clear, echo, os details(cat /etc/*release), 
+
+***************LINUX 4TH DAY************************
+NETWORKING COMMANDS - sudo, ps, netstat, nslookup, tracepath, ping, ifconfig, wget, gzip, 
+AUTOMATION COMMANDS - aws, sed	
+HEALTHCHECK COMMANDS - top, df, du, free -m, free -g  
+
+***************LINUX 5TH DAY**************************
+(SAMPLE SHELL SCRIPT)
+30 DAYS DATA —- LINUX SCRIPT
+1.
+ {
+}  
+
+2. 
+
+LINUX INTERVIEW QUESTIONS
+
+
+
+
+
